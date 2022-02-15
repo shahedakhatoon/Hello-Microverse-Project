@@ -15,8 +15,6 @@ HTML and CSS
 
 This is a simple project that disdplays "Hello Microverse" in my favourite color blue.
 
-To get a local copy up and running follow these simple example steps.
-
 ### Setup
 
 Simply git clone the repository into your terminal and you are good to go.
